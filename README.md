@@ -1,6 +1,6 @@
-## Django_Assignment_portal
+## Django School Portal
 
-Django_Assignment_portal is a web application that allows the students to submit their assignments online.
+Django School Portal is a web application, i created that allows the Students and teacher to interact with each other and do stuffs like take tests, get scores, assign assignments. It has all the functionality that an online school should have.
 
 ## Description
 
@@ -8,4 +8,4 @@ Students can login using their academic credentials. Once logged in, they view a
 Examiners can view students submissions online or download them as a pdf and grade them. They can also view suggested answers.
 Teachers can upload assignment and suggested answers and view all students' grades and submissions.
 
-# Member : Saroj Poudel
+
